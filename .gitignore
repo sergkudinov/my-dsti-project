@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+.*
+!.gitignore
+=======
+>>>>>>> feb33e8 (chore: gitgnore)
+node_modules
