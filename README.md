@@ -1,6 +1,6 @@
-# My DSTI Project
+# DSTI DevOps labs corrections
 
-some line
+This is a repository containing the corrections for the labs.
 
 ## Author
 
